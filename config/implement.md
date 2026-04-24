@@ -4,7 +4,6 @@
 - CLAUDE.md
 - config/requirements.md
 - src/
-- settings.json
 
 ## タスク
 - 
